@@ -10,4 +10,4 @@ Sollten Sie den Code selbst ausführen wollen, so ist Folgendes zu Beachten.
 ### Einrichtung der Credentials
 ![Ein Screenshot der Google Colab Anwendung, die den Tab "Secrets" zeigt](./images/secrets_tab.png)
 
-Unter dem Tab "Secrets" können Sie ein neues Secret hinzufügen, wobei Sie auf als Name `SERVICE_ACCOUNT_CREDENTIALS` eingeben und als Wert den Inhalt des Key-files, den Sie erhalten haben. Wenn der Schlüssel für das Notebook aktiviert ist, sollte die Authentifizierung funktionieren.
+Unter dem Tab "Secrets" können Sie ein neues Secret hinzufügen, wobei Sie `SERVICE_ACCOUNT_CREDENTIALS` als Name eingeben und für den Wert den Inhalt des Key-files, den Sie erhalten haben. Wenn der Schlüssel für das Notebook aktiviert ist, sollte die Authentifizierung funktionieren.
